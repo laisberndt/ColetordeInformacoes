@@ -1,5 +1,5 @@
 # 📊 Projeto – Coletor de Dados de Automação
-
+Obs.: A programação separada em classes está no **master**
 ## 📌 Descrição
 Este projeto em **Java** simula um **sistema de monitoramento industrial**, com foco na **coleta**, **tratamento** e **validação de dados** de um processo automatizado.  
 O sistema possui caráter **didático**, demonstrando conceitos básicos utilizados em automação industrial.
